@@ -14,9 +14,9 @@
 
  
 ## تکنولوژی این قالب
-  - **لایه بندی اصولی پروژه (Project Layering and Architecture)** : در این دوره لایه بندی اصولی یک پروژه را از ابتدا شروع و هر بخش را بررسی می کنیم. همچنین مباحث Repository و UOW رو هم بررسی می کنیم.
-  - **احراز هویت (Authentication)**
-    - **ASP.NET Core Identity** : احراز هویت توسط Identity + سفارشی سازی
+  - **HTML , CSS , JS** 
+  - **Bootstrap v4**
+  - **uppy file upload**  
     - **(Json Web Token) JWT** : احراز هویت توسط Jwt + یکپارچه سازی آن با Identity
     - **(Json Web Encryption) JWE** : ایمن سازی توکن ها بوسیله [رمزنگاری توکن (JWE)](https://www.dotnettips.info/post/2992) 
     - **Security Stamp** : جلوگیری از اعتبارسنجی توکن به هنگام تغییر دسترسی های کاربر جهت امنیت بیشتر
