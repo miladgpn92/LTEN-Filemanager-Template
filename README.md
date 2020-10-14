@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-# 🥇پروژه دوره API نویسی اصولی و حرفه ای در ASP.NET Core
+# 🥇قالب دوره فایل منیجر پیشرفته در LTEN
 
 [در این دوره همه نکات مهم و پرکاربرد در API نویسی اصولی و حرفه ای در ASP.NET Core بررسی شده اند.](http://beyamooz.com/project-based-aspnet/%D8%AF%D9%88%D8%B1%D9%87-api-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A7%D8%B5%D9%88%D9%84%DB%8C-%D9%88-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-asp-net-core)
 
