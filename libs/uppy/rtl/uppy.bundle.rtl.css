@@ -1,0 +1,41 @@
+.uppy-Root {
+  font-family: inherit !important;
+  direction: rtl !important;
+  text-align: right !important;
+}
+
+.uppy-Root .uppy-DashboardContent-addMore svg {
+  margin: 0;
+  margin-left: 4px;
+}
+
+.uppy-Root .uppy-DashboardContent-bar {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+
+.uppy-Root .uppy-StatusBar-actions {
+  left: 10px;
+  right: unset;
+}
+
+.uppy-Root .uppy-Dashboard-poweredBy {
+  display: none;
+}
+
+.uppy-Root .uppy-StatusBar-statusIndicator {
+  margin-right: 0;
+  margin-left: 7px;
+}
+
+.uppy-Root .uppy-Dashboard-Item {
+  padding: 10px 10px 10px 0px;
+}
+
+.uppy-Root .uppy-DashboardTab-btn svg {
+  margin-right: 0;
+  margin-left: 10px;
+}
+/*# sourceMappingURL=uppy.bundle.rtl.css.map */

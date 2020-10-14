@@ -1,0 +1,30 @@
+.uppy-Root{
+    font-family: inherit !important;
+    direction: rtl !important;
+    text-align: right !important;
+    .uppy-DashboardContent-addMore svg{
+        margin: 0;
+        margin-left: 4px;
+    }
+    .uppy-DashboardContent-bar{
+        flex-direction: row-reverse;
+    }
+    .uppy-StatusBar-actions{
+        left: 10px;
+        right: unset;
+    }
+    .uppy-Dashboard-poweredBy{
+        display: none;
+    }
+    .uppy-StatusBar-statusIndicator{
+        margin-right: 0;
+        margin-left: 7px;
+    }
+    .uppy-Dashboard-Item{
+        padding: 10px 10px 10px 0px;
+    }
+    .uppy-DashboardTab-btn svg{
+        margin-right: 0;
+        margin-left: 10px;
+    }
+}

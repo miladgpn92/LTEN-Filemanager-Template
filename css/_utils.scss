@@ -1,0 +1,10 @@
+/* Function for PX to REM */
+@function rem($pixels) {
+    @return #{$pixels / 16}rem;
+}
+
+@mixin mq($size) {
+    @media only screen and (max-width: $size+px) {
+        @content;
+    }
+}
