@@ -1,6 +1,9 @@
 <div dir="rtl">
 
 # 🥇قالب دوره فایل منیجر پیشرفته در LTEN
+ دمو قالب:
+[دمو](https://miladgpn92.github.io/LTEN-Filemanager-Template/index.html)
+
   سایت LTEN:
 [لینک دوره در سایت](https://lten.ir/)
 
