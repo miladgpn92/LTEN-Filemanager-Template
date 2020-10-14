@@ -2,11 +2,11 @@
 
 # 🥇قالب دوره فایل منیجر پیشرفته در LTEN
 شما میتوانید دوره را در سایت LTEN:
-[لینک دوره درس سایت](http://beyamooz.com/project-based-aspnet/%D8%AF%D9%88%D8%B1%D9%87-api-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A7%D8%B5%D9%88%D9%84%DB%8C-%D9%88-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-asp-net-core)
+[لینک دوره درس سایت](https://lten.ir/)
 
 
 و یا اینستاگرام LTEN:
-[لینک دوره درس سایت](http://beyamooz.com/project-based-aspnet/%D8%AF%D9%88%D8%B1%D9%87-api-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A7%D8%B5%D9%88%D9%84%DB%8C-%D9%88-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AF%D8%B1-asp-net-core)
+[لینک دوره درس سایت](https://www.instagram.com/lten_ir)
 
 
 
